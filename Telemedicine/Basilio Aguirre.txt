@@ -1,0 +1,5 @@
+Test 
+[date=Fri Oct 21 11:47:50 CEST 2022
+ frequence=1000
+ signal = null
+ column=[]]
